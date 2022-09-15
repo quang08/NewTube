@@ -46,4 +46,3 @@ NewTube is a YouTube-style, video-streaming website. It allows for users to brow
 ### Demo
 - [Live Site hosted on Netlify](https://lustrous-beignet-382b0f.netlify.app/)
 - [Source Code on Github](https://github.com/quang08/NewTube)
-- 
